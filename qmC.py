@@ -222,6 +222,7 @@ print('\n\n')
 
 
 # Vset = [chr(n) for n in range(65, ord(max(list(VS)+Vm))+1)]
+# Vset = [chr(n) for n in range(65, ord(max(list(VS)+Vm))+1)]
 
 
 
